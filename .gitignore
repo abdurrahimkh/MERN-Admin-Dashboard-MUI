@@ -1,0 +1,9 @@
+backend/node_modules/
+backend/.env
+frontend/node_modules
+frontend/logs
+frontend/build/Release
+frontend/node_modules
+frontend/jspm_packages
+frontend/.npm
+frontend/public/
